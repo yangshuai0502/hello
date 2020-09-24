@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfefa2d4-362b-4e99-a349-fa5797620e3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hjbNVGxdLPvpcKGuOfW1vJlukQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/static_pages" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/static_pages" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfefa2d4-362b-4e99-a349-fa5797620e3e" name="Default Changelist" comment="" />
+      <created>1600527408328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600527408328</updated>
+      <workItem from="1600527409549" duration="7097000" />
+      <workItem from="1600854419070" duration="3666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="135" y="111" key="#Deployment" timestamp="1600914044413">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="135" y="111" key="#Deployment/0.23.1440.829@0.23.1440.829" timestamp="1600914044413" />
+    <state x="459" y="251" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600527951460">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="459" y="251" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.829@0.23.1440.829" timestamp="1600527951460" />
+    <state x="538" y="368" key="NewPhpFileDialog" timestamp="1600915927904">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="538" y="368" key="NewPhpFileDialog/0.23.1440.829@0.23.1440.829" timestamp="1600915927904" />
+    <state x="564" y="347" key="WebDeployment.AddServerDialog.v.1" timestamp="1600913911335">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="564" y="347" key="WebDeployment.AddServerDialog.v.1/0.23.1440.829@0.23.1440.829" timestamp="1600913911335" />
+    <state x="630" y="179" width="275" height="525" key="ftp.server.browser" timestamp="1600914030668">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="630" y="179" width="275" height="525" key="ftp.server.browser/0.23.1440.829@0.23.1440.829" timestamp="1600914030668" />
+  </component>
+</project>
